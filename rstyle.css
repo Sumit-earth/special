@@ -429,6 +429,12 @@ footer ul li{
         top: 0;
         background: white;
     }
+
+    .hero_content h1{
+    font-size: 5rem;
+    line-height: 1.2;
+    font-weight: 250;
+}
     
     #hero{
         display: flex;
