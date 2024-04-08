@@ -424,17 +424,21 @@ footer ul li{
         padding-left: 1rem;
        
     }
+    .hero_content{
+        font-size: 33px;
+    }
+    .hero_content h1{
+        font-size: 8rem;
+    }
+
+    /* .hero_image{
+        width: 2rem;
+    } */
     header{
         position: static;
         top: 0;
         background: white;
     }
-
-    .hero_content h1{
-    font-size: 8rem;
-    line-height: 1.2;
-    font-weight: 250;
-}
     
     #hero{
         display: flex;
@@ -737,7 +741,14 @@ footer ul li{
     }
     
 
-    
+    .songs{
+        color: blue;
+        padding-left: 3.5rem;
+    }
+
+    .songs a:link{
+        color: dodgerblue;
+    }
     
     
 }
